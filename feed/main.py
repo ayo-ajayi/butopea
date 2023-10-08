@@ -84,8 +84,10 @@ for row in result:
         products_dict[prod_id]["additional_image_links"].append((prod_dict["additional_image_link"], prod_dict["sort_order"]))
 
         #delete the additional_image_link and sort_order keys from the products_dict[prod_id] dictionary since the values are already read
-        products_dict[prod_id].pop("additional_image_link", None)
-        products_dict[prod_id].pop("sort_order", None)
+        if "additional_image_link" in products_dict[prod_id]:
+            del products_dict[prod_id]["additional_image_link"]
+        if "sort_order" in products_dict[prod_id]:
+            del products_dict[prod_id]["sort_order"]
 
 products=[]
 
@@ -98,7 +100,9 @@ for prod_id in products_dict:
 
         #create an additional_image_link key and assign it the value of the sorted additional image links
         products_dict[prod_id]["additional_image_link"] = [link[0] for link in sorted_links]
-    
+
+        #important: del the additional_image_links key from the products_dict[prod_id] dictionary since the values are already read and to avoid confusion
+        del products_dict[prod_id]["additional_image_links"]
     #append the values to the products array
     products.append(products_dict[prod_id])
 

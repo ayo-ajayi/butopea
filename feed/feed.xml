@@ -50,9 +50,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PARIS</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/196</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-3.jpg', '3')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-3.jpg</additional_image_link>
@@ -68,8 +65,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>FROZEN</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/663</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-2.jpg</additional_image_link>
 	</product>
@@ -83,9 +78,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>COQUELICOT</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/671</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-3.jpg', '3')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-3.jpg</additional_image_link>
@@ -100,10 +92,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>SWISS COTTAGE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/1940</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-3.jpg</additional_image_link>
@@ -119,10 +107,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>FJORD</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/1955</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-3.jpg</additional_image_link>
@@ -138,9 +122,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>GRAND PALAIS</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/3323</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/bannerek/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-1.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/bannerek/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-3.jpg</additional_image_link>
@@ -155,10 +136,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>MANILLE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/4117</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-3.jpg</additional_image_link>
@@ -174,7 +151,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>DINODRAGO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/4233</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/Étkezőszettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-1.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Étkezőszettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-1.jpg</additional_image_link>
 	</product>
 	<product>
@@ -200,7 +176,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6009</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY-L.jpg', '0')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY-L.jpg</additional_image_link>
 	</product>
 	<product>
@@ -213,8 +188,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6011</link>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_05_V1_1200x1200.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_05_V1_1200x1200.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
 	</product>
@@ -228,9 +201,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6012</link>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_02_V1_1200x1200.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_02_V1_1200x1200.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
@@ -245,7 +215,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6013</link>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</additional_image_link>
 	</product>
 	<product>
@@ -258,8 +227,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6015</link>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/butopea_mood_200326_04_V1_1200x1200.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_04_V1_1200x1200.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
 	</product>
@@ -273,8 +240,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6043</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg', '0')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D-Haromajtos-komod-fiokkal-es-polccal-feher---diofa-OSLO.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D-Haromajtos-komod-fiokkal-es-polccal-feher---diofa-OSLO.jpg</additional_image_link>
 	</product>
@@ -288,8 +253,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>OSLO</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6045</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg', '0')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D-TV-allvany-feher---diofa-OSLO.jpg', '1')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D-TV-allvany-feher---diofa-OSLO.jpg</additional_image_link>
 	</product>
@@ -316,7 +279,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>CASHMERE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6460</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -329,7 +291,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>CASHMERE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6461</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -342,8 +303,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>TWIN PEAKS</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6463</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_1.jpg', '1')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_1.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_2.jpg</additional_image_link>
 	</product>
@@ -357,7 +316,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>CONIFÈRE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6466</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -370,7 +328,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>ROYAL</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6469</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -383,7 +340,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PINEDE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6487</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -396,7 +352,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>SAPIN DE CRIMEE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6491</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -409,7 +364,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>SAPIN DE CRIMEE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6492</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -422,7 +376,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOEL FEERIQUE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6500</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -435,7 +388,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOEL FEERIQUE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6501</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -448,7 +400,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOEL FEERIQUE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6502</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -461,7 +412,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOEL JOYEUX</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6504</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -474,7 +424,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOEL JOYEUX</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6505</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -487,7 +436,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NORWICH</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6512</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -500,7 +448,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NORWICH</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6513</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -513,7 +460,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PINS DE TIROL</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/6518</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -526,7 +472,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>RONDO WIDE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/8750</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -539,9 +484,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>HABILLÉE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/8757</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_4.jpg</additional_image_link>
@@ -569,7 +511,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PIGEON</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/8762</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -582,8 +523,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>POSSIBILITÉ</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/8768</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_3.jpg', '3')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_3.jpg</additional_image_link>
 	</product>
@@ -597,7 +536,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>POSSIBILITÉ</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/8769</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -727,7 +665,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>BERGAME</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9037</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as106[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as106[d]_2.jpg</additional_image_link>
 	</product>
 	<product>
@@ -766,8 +703,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>BARI</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9042</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_3.jpg', '3')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_3.jpg</additional_image_link>
 	</product>
@@ -807,8 +742,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>POMPEI</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9050</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_3.jpg', '3')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_3.jpg</additional_image_link>
 	</product>
@@ -835,12 +768,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NUIT CALME</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9472</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_2.jpg', '5')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_4.jpg', '4')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_5.jpg', '6')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_6.jpg', '7')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_7.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_7.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_4.jpg</additional_image_link>
@@ -858,9 +785,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>TERRE ET LUNE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9889</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_4.jpg</additional_image_link>
@@ -875,9 +799,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>ESPACE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9891</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_4.jpg</additional_image_link>
@@ -892,9 +813,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>FACE CACHEE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9893</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_4.jpg</additional_image_link>
@@ -909,9 +827,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PLEINE LUNE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9894</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_4.jpg</additional_image_link>
@@ -926,9 +841,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>ECLIPSE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9895</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_4.jpg</additional_image_link>
@@ -943,9 +855,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>CALEIDOSCOPE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9907</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_4.jpg</additional_image_link>
@@ -960,9 +869,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PONTON</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9913</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_4.jpg</additional_image_link>
@@ -977,9 +883,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>ROUGE BAISER</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9916</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_2.jpeg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_3.jpeg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_2.jpeg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_3.jpeg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_4.jpg</additional_image_link>
@@ -994,10 +897,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>STYLEE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9917</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_2.jpeg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_4.jpg', '4')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_5.jpg', '5')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_2.jpeg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_4.jpg</additional_image_link>
@@ -1013,9 +912,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>Prairie</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9930</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_4.jpg</additional_image_link>
@@ -1030,9 +926,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>MER CALME</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9931</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_4.jpg</additional_image_link>
@@ -1047,9 +940,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>BLUE DREAM</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9934</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_4.jpg</additional_image_link>
@@ -1064,9 +954,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>NOCTURNE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9935</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_4.jpg</additional_image_link>
@@ -1081,9 +968,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>PINK DREAM</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9936</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_4.jpg</additional_image_link>
@@ -1098,9 +982,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>COFFEE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9937</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_4.jpg</additional_image_link>
@@ -1115,9 +996,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>STRATUS</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9944</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_4.jpg</additional_image_link>
@@ -1132,9 +1010,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>STRATUS</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/9945</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_4.jpg', '4')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_4.jpg</additional_image_link>
@@ -1149,10 +1024,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>QUIMPER</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/10753</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_2.jpg', '2')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_3.jpg', '3')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_4.jpg', '4')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_5.jpg', '5')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_2.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_3.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_4.jpg</additional_image_link>
@@ -1168,9 +1039,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>BRIDGE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/11272</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_4.jpg', '4')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_5.jpg', '5')</additional_image_links>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_7.jpg', '7')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_4.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_5.jpg</additional_image_link>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_7.jpg</additional_image_link>
@@ -1185,7 +1053,6 @@ if (event.data == YT.PlayerState.ENDED) {
 		<brand>BRIDGE</brand>
 		<condition>1</condition>
 		<link>https://butopea.com/p/11275</link>
-		<additional_image_links>('https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d[d]_2.jpg', '2')</additional_image_links>
 		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d[d]_2.jpg</additional_image_link>
 	</product>
 </feed>
