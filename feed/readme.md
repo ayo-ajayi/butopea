@@ -9,30 +9,30 @@ This readme explains how to fetch product data from an SQLite database, process 
 ## Setup and Execution
 
 1. **Navigate to the project directory:**
-    ```
+    ```bash
     cd <project_path>
     ```
 
 2. **Create and activate a virtual environment:**
 
     - **Setting up the environment:**
-        ```
+        ```bash
         python -m venv <virtual_environment_name>
         ```
 
     - **Activating the environment:**
-        ```
+        ```bash
         cd <virtual_environment_name>/Scripts
         source activate
         ```
 
 3. **Install the required packages:**
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
 4. **Run the script:**
-    ```
+    ```bash
     python main.py
     ```
 

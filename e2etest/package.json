@@ -1,7 +1,7 @@
 {
   "name": "e2etest",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm init \r npm i\r npx cypress run: this runs the cypress/e2e/main.cy.js file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
