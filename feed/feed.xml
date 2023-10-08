@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+	<product>
+		<id>196</id>
+		<title>Összehajtható, ülőkés tároló puff - PARIS</title>
+		<description>&amp;lt;p&amp;gt;R&amp;amp;eacute;gi levelek mint&amp;amp;aacute;iba burkol&amp;amp;oacute;zva, modern st&amp;amp;iacute;lust &amp;amp;eacute;s fant&amp;amp;aacute;zi&amp;amp;aacute;t visz otthon&amp;amp;aacute;ban ez a lelem&amp;amp;eacute;nyes puff. Haszn&amp;amp;aacute;lhatja &amp;amp;uuml;lőkek&amp;amp;eacute;nt vagy t&amp;amp;aacute;rol&amp;amp;oacute;k&amp;amp;eacute;nt, elsz&amp;amp;oacute;rva tartott dolgai sz&amp;amp;aacute;m&amp;amp;aacute;ra. K&amp;amp;eacute;ptelen lesz n&amp;amp;eacute;lk&amp;amp;uuml;le &amp;amp;eacute;lni!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ezt a term&amp;amp;eacute;ket Viszkok Fruzsi is tesztelte. N&amp;amp;eacute;zd meg neki hogy tetszett!&amp;lt;/p&amp;gt;
+
+&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;iframe allowfullscreen=&amp;quot;&amp;quot; frameborder=&amp;quot;0&amp;quot; height=&amp;quot;180&amp;quot; id=&amp;quot;ytplayer&amp;quot; src=&amp;quot;https://www.youtube.com/embed/QWkM2ft_tBs?rel=0&amp;amp;amp;enablejsapi=1&amp;amp;amp;origin=https://butoraim.hu&amp;amp;amp;showinfo=0&amp;amp;amp;start=440&amp;quot; width=&amp;quot;320&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;script&amp;gt;
+      var tag = document.createElement('script');
+      tag.src = &amp;quot;https://www.youtube.com/iframe_api&amp;quot;;
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady(event) {
+      player = new YT.Player('ytplayer', {
+      events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+      }
+      });
+      }
+  var pauseFlag = false;
+function onPlayerReady(event) {
+// do nothing, no tracking needed
+}
+function onPlayerStateChange(event) {
+// track when user clicks to Play
+if (event.data == YT.PlayerState.PLAYING) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Play', 'Product ID 196');
+pauseFlag = true;
+}
+// track when user clicks to Pause
+if (event.data == YT.PlayerState.PAUSED &amp;amp;&amp;amp; pauseFlag) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Pause', 'Product ID 196');
+pauseFlag = false;
+}
+// track when video ends
+if (event.data == YT.PlayerState.ENDED) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Finished', 'Product ID 196');
+}
+}
+&amp;lt;/script&amp;gt;</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-main.jpg</image_link>
+		<availability>40</availability>
+		<price>123648.0253</price>
+		<brand>PARIS</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/196</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>663</id>
+		<title>Ékszerdoboz, havas táj mintával - FROZEN</title>
+		<description>&amp;lt;p&amp;gt;Az &amp;amp;eacute;jszaka &amp;amp;eacute;s a h&amp;amp;oacute; lesz&amp;amp;aacute;llt. M&amp;amp;aacute;r v&amp;amp;aacute;rtunk egy ideje r&amp;amp;aacute;. Mikor kit&amp;amp;aacute;rjuk az ablakokat, boldogs&amp;amp;aacute;ggal telve fedezz&amp;amp;uuml;k fel az &amp;amp;uacute;jonnan h&amp;amp;oacute;feh&amp;amp;eacute;rbe &amp;amp;ouml;lt&amp;amp;ouml;z&amp;amp;ouml;tt t&amp;amp;aacute;jat. A hold f&amp;amp;eacute;nye j&amp;amp;aacute;tszik a friss lehull&amp;amp;oacute; pelyheken, &amp;amp;eacute;s a reszkető f&amp;amp;aacute;k v&amp;amp;aacute;rnak a csintalan sz&amp;amp;eacute;lre, hogy leh&amp;amp;uacute;zza r&amp;amp;oacute;luk a fagyos k&amp;amp;ouml;nt&amp;amp;ouml;st. A meleg kunyh&amp;amp;oacute;ban &amp;amp;uuml;lve nyitom fel a gy&amp;amp;ouml;ny&amp;amp;ouml;rű lakkozott dobozom, hogy a halk, szellőktől hull&amp;amp;aacute;mz&amp;amp;oacute; tejsz&amp;amp;iacute;nű t&amp;amp;aacute;j, mesesz&amp;amp;eacute;p eml&amp;amp;eacute;keit z&amp;amp;aacute;rjam el benne.&amp;lt;/p&amp;gt;
+</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-main.jpg</image_link>
+		<availability>77</availability>
+		<price>33079.8191</price>
+		<brand>FROZEN</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/663</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>671</id>
+		<title>Ékszerdoboz, pipacsos mintával - COQUELICOT</title>
+		<description>Egy stílusos pipacs mező, pasztell színekkel illeni fog bármilyen modern beltérhez. A zen és a belső mérlegelést inspirálja nyugodt hangulatával. Bármit megtesz, hogy ellazítsa Önt. Tóp színével ez a ékszeresdoboz igazán sikkesen fog mutatni belterében.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-main.jpg</image_link>
+		<availability>65</availability>
+		<price>22418.7768</price>
+		<brand>COQUELICOT</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/671</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>1940</id>
+		<title>Fali kulcstartó polccal, virág mintával - SWISS COTTAGE</title>
+		<description>Folyton csak ledobod az apróságokat a zsebedből az előszobában a komódra? Ettől mindig olyan mintha rendetlenség lenne? Egy kis polc könnyen megoldja ezt a roblémát. Egyszerűen csak felakasztod a falra és mikor hazaérsz csak tedd erre az apró holmikat a zsebedből. És még a kulcsaidnak is fix helye lesz rajta, így a reggeli kulcskeresgélés is megoldódott.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-main.jpg</image_link>
+		<availability>77</availability>
+		<price>213138.6140</price>
+		<brand>SWISS COTTAGE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/1940</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>1955</id>
+		<title>LED-es világító fali dekoráció HOME felirattal, fehér - FJORD</title>
+		<description>Ez a fa keretes MDF táblakép tökéletes dekorációja lesz otthonodnak! Állandó fényű fehér LED égővel hangulatos világítás is lehet, ha pedig már nincs szükséged a fényre ki is kapcsolhatod.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-main.jpg</image_link>
+		<availability>100</availability>
+		<price>23966.2152</price>
+		<brand>FJORD</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/1955</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>3323</id>
+		<title>Falióra vintage stílusú 60 cm - GRAND PALAIS</title>
+		<description>Modern kivitelezésben a klasszikus falióra. Nagyméretű számok, feltűnő óramutató szín a könnyebb eligazodás érdekében. Lakásunk berendezése akár a modern, akár a klasszikus stílust képviseli, ez a  falióra kiválóan beleolvad bármelyikbe. Ideális ajándék minden alkalomra.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-main.jpg</image_link>
+		<availability>69</availability>
+		<price>266541.3010</price>
+		<brand>GRAND PALAIS</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/3323</link>
+		<additional_image_link>https://butopea.com/image/catalog/bannerek/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>4117</id>
+		<title>Modern műanyag szövött szék, rózsaszín - MANILLE</title>
+		<description>Ha szeretnéd egy kicsit a legújabb trendet megjeleníteni otthonodban, akkor ez a fa mintázatú fém lábú, púderrózsaszín műanyag szék ideális választás lesz. Fonatos ülőrésze és kartámlája igazán kényelmes ülést biztosít akár az otthoni íróasztalnál szeretnéd használni, akár az étkezőben, akár a teraszon helyeznéd el.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-main.jpg</image_link>
+		<availability>46</availability>
+		<price>42201.9586</price>
+		<brand>MANILLE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/4117</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>4233</id>
+		<title>Hintafotel, dínó - DINODRAGO</title>
+		<description>A gyerekszobák berendezésében újra hódítanak a hintalovak és hintafotelek egyaránt. Nemcsak kiegészítőként mutat jól egy-egy darab, hanem a játék és készségfejlesztés szempontjából is praktikus! Azon gyerekek számára, akiknek a szoba minden sarkában egy plüssállat figyel, elengedhetetlen egy ilyen dínós hintafotel, melynek szarulemezeit ha megnyomjuk hangot is ad ki.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Étkezőszettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-main.jpg</image_link>
+		<availability>21</availability>
+		<price>421416.6020</price>
+		<brand>DINODRAGO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/4233</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/Étkezőszettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-1.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>4236</id>
+		<title>Hintaló, sötétbarna - FIER ETALON</title>
+		<description>A gyerekszobák berendezésében újra hódítanak a hintalovak és hintafotelek egyaránt. Nemcsak kiegészítőként mutat jól egy-egy darab, hanem a játék és készségfejlesztés szempontjából is praktikus! Azon gyerekek számára, akiknek a szoba minden sarkában egy plüssállat figyel, elengedhetetlen egy ilyen hintaló, melynek fülét ha megnyomjuk, hangot is ad ki.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/Étkezőszettek/hintalo-sotetbarna-fier-etalon-sh-gd100h-br-h48-00-cm-w31-00-cm-60-00-cm-main.jpg</image_link>
+		<availability>71</availability>
+		<price>480391.0564</price>
+		<brand>FIER ETALON</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/4236</link>
+	</product>
+	<product>
+		<id>6009</id>
+		<title>Magasfényű szekrény LED világítással, fehér - bükkfa - OSLO</title>
+		<description>Ennek a terméknek még nincs leírása.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-V2-D_1.jpg</image_link>
+		<availability>33</availability>
+		<price>54847.9688</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6009</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY-L.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6011</id>
+		<title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+		<description>Magasfényű fehér komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-K31-D_1.jpg</image_link>
+		<availability>92</availability>
+		<price>68149.7541</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6011</link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_05_V1_1200x1200.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6012</id>
+		<title>Magasfényű falipolc, 139 cm, fehér-bükkfa - OSLO</title>
+		<description>Nagyméretű, magasfényű fehér falipolc, melyet bükkfa színnel egészítettek ki. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-VP-D_1.jpg</image_link>
+		<availability>64</availability>
+		<price>449099.1292</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6012</link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_02_V1_1200x1200.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6013</id>
+		<title>TV állvány LED világítással, fehér - bükkfa - OSLO</title>
+		<description>Magasfényű fehér TV állvány bükkfa színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-TV-D_1.jpg</image_link>
+		<availability>45</availability>
+		<price>447055.0784</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6013</link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6015</id>
+		<title>Kétajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+		<description>Magasfényű fehér komód bükkfa színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/DEJEL-TENA-V21-D_1.jpg</image_link>
+		<availability>35</availability>
+		<price>638283.6380</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6015</link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_04_V1_1200x1200.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6043</id>
+		<title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-diófa - OSLO</title>
+		<description>Magasfényű fehér és aida dió színű komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D_1.jpg</image_link>
+		<availability>55</availability>
+		<price>135143.9300</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6043</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D-Haromajtos-komod-fiokkal-es-polccal-feher---diofa-OSLO.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6045</id>
+		<title>TV állvány LED világítással, fehér-diófa - OSLO</title>
+		<description>Magasfényű fehér TV állvány aida dió színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D_1.jpg</image_link>
+		<availability>59</availability>
+		<price>381810.0431</price>
+		<brand>OSLO</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6045</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D-TV-allvany-feher---diofa-OSLO.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6048</id>
+		<title>LED tápegység 18 W - LED</title>
+		<description>Ennek a terméknek még nincs leírása.</description>
+		<image_link>https://butopea.com/image/catalog/DEJEL-LN-18W-D_1.jpg</image_link>
+		<availability>28</availability>
+		<price>172349.4391</price>
+		<brand>LED</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6048</link>
+	</product>
+	<product>
+		<id>6460</id>
+		<title>Műfenyő 180 cm - CASHMERE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248[d]_1.jpg</image_link>
+		<availability>45</availability>
+		<price>209388.9324</price>
+		<brand>CASHMERE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6460</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6461</id>
+		<title>Műfenyő 210 cm - CASHMERE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241[d]_1.jpg</image_link>
+		<availability>26</availability>
+		<price>395569.5207</price>
+		<brand>CASHMERE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6461</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6463</id>
+		<title>Műfenyő 180 cm - TWIN PEAKS</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_1.jpg</image_link>
+		<availability>99</availability>
+		<price>26038.0598</price>
+		<brand>TWIN PEAKS</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6463</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_1.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6466</id>
+		<title>Műfenyő 180 cm - CONIFÈRE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158[d]_1.jpg</image_link>
+		<availability>62</availability>
+		<price>16105.4577</price>
+		<brand>CONIFÈRE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6466</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6469</id>
+		<title>Műfenyő 3D tűlevelű,180 cm - ROYAL</title>
+		<description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508[d]_1.jpg</image_link>
+		<availability>76</availability>
+		<price>425744.4769</price>
+		<brand>ROYAL</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6469</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6487</id>
+		<title>Műfenyő 180 cm - PINEDE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228[d]_1.jpg</image_link>
+		<availability>36</availability>
+		<price>578362.3726</price>
+		<brand>PINEDE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6487</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6491</id>
+		<title>Műfenyő 210 cm - SAPIN DE CRIMEE</title>
+		<description>A műfenyők praktikus voltát már sokan felfedezték - egy minőségi, igényes darab akár egy évtizeden keresztül is a család részévé válhat az ünnepi időszak alatt. A 2D-s fák a legelsők a műfenyők történelmében: ágaikon szalag jellegű levelek egész sora található, melyekről messziről aligha lehet megállapítani, hogy nem igaziak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191[d]_1.jpg</image_link>
+		<availability>0</availability>
+		<price>289612.7755</price>
+		<brand>SAPIN DE CRIMEE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6491</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6492</id>
+		<title>Müfenyö 240 cm - SAPIN DE CRIMEE</title>
+		<description>A műfenyők praktikus voltát már sokan felfedezték - egy minőségi, igényes darab akár egy évtizeden keresztül is a család részévé válhat az ünnepi időszak alatt. A 2D-s fák a legelsők a műfenyők történelmében: ágaikon szalag jellegű levelek egész sora található, melyekről messziről aligha lehet megállapítani, hogy nem igaziak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194[d]_1.jpg</image_link>
+		<availability>97</availability>
+		<price>8944.0734</price>
+		<brand>SAPIN DE CRIMEE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6492</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6500</id>
+		<title>Műfenyő 150 cm - NOEL FEERIQUE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075[d]_1.jpg</image_link>
+		<availability>15</availability>
+		<price>547630.4580</price>
+		<brand>NOEL FEERIQUE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6500</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6501</id>
+		<title>Műfenyő 180 cm - NOEL FEERIQUE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078[d]_1.jpg</image_link>
+		<availability>33</availability>
+		<price>179101.5663</price>
+		<brand>NOEL FEERIQUE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6501</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6502</id>
+		<title>Műfenyő 210 cm - NOEL FEERIQUE</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071[d]_1.jpg</image_link>
+		<availability>21</availability>
+		<price>327644.4083</price>
+		<brand>NOEL FEERIQUE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6502</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6504</id>
+		<title>Műfenyő 3D tűlevelű, 150 cm - NOEL JOYEUX</title>
+		<description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305[d]_1.jpg</image_link>
+		<availability>7</availability>
+		<price>192001.5506</price>
+		<brand>NOEL JOYEUX</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6504</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6505</id>
+		<title>Műfenyő 3D tűlevelű, 180 cm - NOEL JOYEUX</title>
+		<description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308[d]_1.jpg</image_link>
+		<availability>73</availability>
+		<price>12880.5364</price>
+		<brand>NOEL JOYEUX</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6505</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6512</id>
+		<title>Műfenyő 150 cm - NORWICH</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215[d]_1.jpg</image_link>
+		<availability>42</availability>
+		<price>202833.2726</price>
+		<brand>NORWICH</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6512</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6513</id>
+		<title>Műfenyő 180 cm - NORWICH</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218[d]_1.jpg</image_link>
+		<availability>91</availability>
+		<price>217959.1122</price>
+		<brand>NORWICH</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6513</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>6518</id>
+		<title>Műfenyő tobozokal, 180 cm - PINS DE TIROL</title>
+		<description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068[d]_1.jpg</image_link>
+		<availability>26</availability>
+		<price>278814.6304</price>
+		<brand>PINS DE TIROL</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/6518</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8750</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, széles,  kék - RONDO WIDE</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek[d]_1.jpg</image_link>
+		<availability>52</availability>
+		<price>29319.9574</price>
+		<brand>RONDO WIDE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8750</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8757</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, kiszélesedő, sötét narancssárga - HABILLÉE</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_1.jpg</image_link>
+		<availability>11</availability>
+		<price>19896.7271</price>
+		<brand>HABILLÉE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8757</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8759</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, kiszélesedő, szürke  - HABILLÉE</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-brollysz[d]_1.jpg</image_link>
+		<availability>75</availability>
+		<price>242590.3007</price>
+		<brand>HABILLÉE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8759</link>
+	</product>
+	<product>
+		<id>8762</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, S-es méretű, ívelt, fehér   - PIGEON -- reason of letiltás was: Szilvi, a gyártó szerint itt egy lila lámpa látható, nem fehér.</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh[d]_1.jpg</image_link>
+		<availability>40</availability>
+		<price>72330.8134</price>
+		<brand>PIGEON</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8762</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8768</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, feltűzött, lila - POSSIBILITÉ</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_1.jpg</image_link>
+		<availability>78</availability>
+		<price>94657.3182</price>
+		<brand>POSSIBILITÉ</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8768</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8769</id>
+		<title>Exkluzív függesztett mennyezeti lámpa, feltűzött, olívazöld - POSSIBILITÉ</title>
+		<description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol[d]_1.jpg</image_link>
+		<availability>67</availability>
+		<price>251255.5227</price>
+		<brand>POSSIBILITÉ</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8769</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>8926</id>
+		<title>Textilbőr forgószék, dísztűzéssel, fekete-fehér - TANKISTE</title>
+		<description>Az irodai székek fontosságát azok ismerik el igazán, akik gyakran dolgoznak otthon, a home office-ukban, vagy akiknek a munkahelyükön volt már olyan, hogy egy egyszerű széken kellett ülniük. Ha nagyjából 8 órát eltöltünk egy hagyományos széken, a hamar tapasztalhatunk gerincfájdalmakat, és figyelemzavart. Ezért is érdemes olyan széket választani, mely támogat minket a munkavégzésben!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-afb110f[d]_1.jpg</image_link>
+		<availability>10</availability>
+		<price>748343.9763</price>
+		<brand>TANKISTE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8926</link>
+	</product>
+	<product>
+		<id>8927</id>
+		<title>Textilbőr forgószék, díszcsíkkal, fekete-sárga - MARECHGAL</title>
+		<description>Az irodai székek fontosságát azok ismerik el igazán, akik gyakran dolgoznak otthon, a home office-ukban, vagy akiknek a munkahelyükön volt már olyan, hogy egy egyszerű széken kellett ülniük. Ha nagyjából 8 órát eltöltünk egy hagyományos széken, a hamar tapasztalhatunk gerincfájdalmakat, és figyelemzavart. Ezért is érdemes olyan széket választani, mely támogat minket a munkavégzésben!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-afb110s[d]_1.jpg</image_link>
+		<availability>45</availability>
+		<price>51830.5003</price>
+		<brand>MARECHGAL</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8927</link>
+	</product>
+	<product>
+		<id>8930</id>
+		<title>Textilbőr forgószék, halványszürke - ASTRONOTE</title>
+		<description>Az irodai székek fontosságát azok ismerik el igazán, akik gyakran dolgoznak otthon, a home office-ukban, vagy akiknek a munkahelyükön volt már olyan, hogy egy egyszerű széken kellett ülniük. Ha nagyjából 8 órát eltöltünk egy hagyományos széken, a hamar tapasztalhatunk gerincfájdalmakat, és figyelemzavart. Ezért is érdemes olyan széket választani, mely támogat minket a munkavégzésben!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-afb112[d]_1.jpg</image_link>
+		<availability>94</availability>
+		<price>278719.9497</price>
+		<brand>ASTRONOTE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/8930</link>
+	</product>
+	<product>
+		<id>9010</id>
+		<title>Kerek étkezőasztal, 100 cm, tölgy - PONTON</title>
+		<description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-rovinj[d]_1.jpg</image_link>
+		<availability>34</availability>
+		<price>8601.6493</price>
+		<brand>PONTON</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9010</link>
+	</product>
+	<product>
+		<id>9019</id>
+		<title>Textilbőr étkezőszék, barna - MILAN</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-bar[d]_1.jpg</image_link>
+		<availability>89</availability>
+		<price>233547.3588</price>
+		<brand>MILAN</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9019</link>
+	</product>
+	<product>
+		<id>9020</id>
+		<title>Textilbőr étkezőszék, fekete - MILAN</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-fek[d]_1.jpg</image_link>
+		<availability>41</availability>
+		<price>90070.4116</price>
+		<brand>MILAN</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9020</link>
+	</product>
+	<product>
+		<id>9021</id>
+		<title>Textilbőr étkezőszék, bézs - MILAN</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-bez[d]_1.jpg</image_link>
+		<availability>39</availability>
+		<price>395419.5519</price>
+		<brand>MILAN</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9021</link>
+	</product>
+	<product>
+		<id>9022</id>
+		<title>Textilbőr étkezőszék, világosbarna - MILAN</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-tau[d]_1.jpg</image_link>
+		<availability>74</availability>
+		<price>204457.0254</price>
+		<brand>MILAN</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9022</link>
+	</product>
+	<product>
+		<id>9028</id>
+		<title>Textilbőr étkezőszék króm vázzal, bézs - BERGAME</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as102-bez[d]_1.jpg</image_link>
+		<availability>52</availability>
+		<price>46743.9016</price>
+		<brand>BERGAME</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9028</link>
+	</product>
+	<product>
+		<id>9037</id>
+		<title>Textilbőr étkezőszék króm vázzal, szürke - BERGAME</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as106[d]_1.jpg</image_link>
+		<availability>39</availability>
+		<price>101332.4160</price>
+		<brand>BERGAME</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9037</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as106[d]_2.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9039</id>
+		<title>Textilbőr étkezőszék króm vázzal, krémszínű - BARI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as109-bez[d]_1.jpg</image_link>
+		<availability>37</availability>
+		<price>41843.9703</price>
+		<brand>BARI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9039</link>
+	</product>
+	<product>
+		<id>9040</id>
+		<title>Textilbőr étkezőszék króm vázzal, szürke - BARI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as109-szu[d]_1.jpg</image_link>
+		<availability>70</availability>
+		<price>244040.0045</price>
+		<brand>BARI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9040</link>
+	</product>
+	<product>
+		<id>9042</id>
+		<title>Textilbőr étkezőszék króm vázzal, bézs - BARI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_1.jpg</image_link>
+		<availability>35</availability>
+		<price>55662.7812</price>
+		<brand>BARI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9042</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9043</id>
+		<title>Textilbőr étkezőszék, barna - MATERA</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase101-bar[d]_1.jpg</image_link>
+		<availability>70</availability>
+		<price>129320.3909</price>
+		<brand>MATERA</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9043</link>
+	</product>
+	<product>
+		<id>9047</id>
+		<title>Textilbőr étkezőszék króm vázzal, barna - BRINDISI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase104-bar[d]_1.jpg</image_link>
+		<availability>97</availability>
+		<price>424699.6771</price>
+		<brand>BRINDISI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9047</link>
+	</product>
+	<product>
+		<id>9050</id>
+		<title>Modern textilbőr étkezőszék díszvarrással, bézs - POMPEI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_1.jpg</image_link>
+		<availability>59</availability>
+		<price>88344.3899</price>
+		<brand>POMPEI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9050</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106[d]_3.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9060</id>
+		<title>Szövet étkezőszék króm vázzal, sötétszürke - BRINDISI</title>
+		<description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEAE/deae-ax102-szuv[d]_1.jpg</image_link>
+		<availability>6</availability>
+		<price>112126.6425</price>
+		<brand>BRINDISI</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9060</link>
+	</product>
+	<product>
+		<id>9472</id>
+		<title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+		<description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_1.jpg</image_link>
+		<availability>55</availability>
+		<price>46813.2622</price>
+		<brand>NUIT CALME</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9472</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_7.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_4.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_5.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728[d]_6.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9889</id>
+		<title>Vászon falikép, Hold és Föld, 75x100 cm, fekete - TERRE ET LUNE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_1.jpg</image_link>
+		<availability>94</availability>
+		<price>20888.3414</price>
+		<brand>TERRE ET LUNE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9889</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9891</id>
+		<title>Üveg falikép, Föld, 50x125 cm, kék - ESPACE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_1.jpg</image_link>
+		<availability>78</availability>
+		<price>306264.8683</price>
+		<brand>ESPACE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9891</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9893</id>
+		<title>Üveg falióra, Hold, 30 cm, szürke - FACE CACHEE</title>
+		<description>Egy igényes falióra praktikusságán túl még dekoratív funkciót is betölthet, a különféle stílusokban berendezett otthonunkat bátran kiegészíthetjük egy nagyméretű faliórával, mely emblematikus befejező eleme lehet a dekorálásának!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_1.jpg</image_link>
+		<availability>93</availability>
+		<price>17800.2254</price>
+		<brand>FACE CACHEE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9893</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9894</id>
+		<title>Keretezett falikép, Hold, 50x70 cm, szürke-fekete - PLEINE LUNE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_1.jpg</image_link>
+		<availability>29</availability>
+		<price>190185.2032</price>
+		<brand>PLEINE LUNE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9894</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9895</id>
+		<title>Keretezett falikép, holdfogyatkozás, 50x70 cm, szürke-fekete - ECLIPSE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_1.jpg</image_link>
+		<availability>71</availability>
+		<price>1329.5097</price>
+		<brand>ECLIPSE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9895</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9907</id>
+		<title>Keretezett falikép, rombusz mozaik mintával, 50x70 cm, rosegold - CALEIDOSCOPE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_1.jpg</image_link>
+		<availability>63</availability>
+		<price>424651.9067</price>
+		<brand>CALEIDOSCOPE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9907</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9913</id>
+		<title>Vászon falikép, szépia kikötő, 60x150 cm, nude - PONTON</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_1.jpg</image_link>
+		<availability>38</availability>
+		<price>186048.3316</price>
+		<brand>PONTON</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9913</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9916</id>
+		<title>Vászon falikép, nő vörös rúzzsal, 60x60 cm, fekete-piros - ROUGE BAISER</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_1.jpeg</image_link>
+		<availability>76</availability>
+		<price>325422.6344</price>
+		<brand>ROUGE BAISER</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9916</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_2.jpeg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_3.jpeg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9917</id>
+		<title>Vászon falikép, nő napszemüvegben, 60x80 cm, fekete-fehér - STYLEE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/DESY-CA-01139[D]_1.jpg</image_link>
+		<availability>61</availability>
+		<price>62422.8874</price>
+		<brand>STYLEE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9917</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_2.jpeg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_4.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139[d]_5.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9930</id>
+		<title>Keretezett poszter, nádbuzogányok, 50x70 cm, barna - PRAIRIE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_1.jpg</image_link>
+		<availability>17</availability>
+		<price>821739.8142</price>
+		<brand>Prairie</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9930</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9931</id>
+		<title>Keretezett poszter, tenger, 50x70 cm, kék - MER CALME</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_1.jpg</image_link>
+		<availability>44</availability>
+		<price>61439.6364</price>
+		<brand>MER CALME</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9931</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9934</id>
+		<title>Üveg falikép, rózsák, 50x70 cm, fehér-kék - BLUE DREAM</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_1.jpg</image_link>
+		<availability>71</availability>
+		<price>615267.2763</price>
+		<brand>BLUE DREAM</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9934</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9935</id>
+		<title>Üveg falikép, rózsák, 50x70 cm, kék-arany - NOCTURNE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_1.jpg</image_link>
+		<availability>21</availability>
+		<price>8534.2996</price>
+		<brand>NOCTURNE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9935</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9936</id>
+		<title>Üveg falikép, pipacsok, 50x70 cm, púderrózsaszín - PINK DREAM</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_1.jpg</image_link>
+		<availability>95</availability>
+		<price>62328.0077</price>
+		<brand>PINK DREAM</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9936</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9937</id>
+		<title>Falikép,  kávéval minden lehetséges, 30x40 cm,  fekete - COFFEE</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_1.jpeg</image_link>
+		<availability>9</availability>
+		<price>6486.3026</price>
+		<brand>COFFEE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9937</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9944</id>
+		<title>Falikép, abszrakt csíkokkal, 50x70 cm, világoskék - STRATUS</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_1.jpg</image_link>
+		<availability>63</availability>
+		<price>29378.2267</price>
+		<brand>STRATUS</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9944</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>9945</id>
+		<title>Falikép, abszrakt kövekkel, 50x70 cm, világoskék - STRATUS</title>
+		<description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_1.jpg</image_link>
+		<availability>88</availability>
+		<price>115015.4135</price>
+		<brand>STRATUS</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/9945</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883[d]_4.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>10753</id>
+		<title>Étkezőasztal, 200x90 cm, mangófa - QUIMPER</title>
+		<description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_1.jpg</image_link>
+		<availability>76</availability>
+		<price>82485.3389</price>
+		<brand>QUIMPER</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/10753</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_2.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_3.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_4.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166511[d]_5.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>11272</id>
+		<title>Bársony hatású szövetfotel, fa karfával, szürke - BRIDGE</title>
+		<description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_1.jpg</image_link>
+		<availability>37</availability>
+		<price>201606.4860</price>
+		<brand>BRIDGE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/11272</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_4.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_5.jpg</additional_image_link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a[d]_7.jpg</additional_image_link>
+	</product>
+	<product>
+		<id>11275</id>
+		<title>Bársony hatású szövetfotel, fa karfával, fekete - BRIDGE</title>
+		<description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+		<image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d[d]_1.jpg</image_link>
+		<availability>48</availability>
+		<price>243876.4038</price>
+		<brand>BRIDGE</brand>
+		<condition>1</condition>
+		<link>https://butopea.com/p/11275</link>
+		<additional_image_link>https://butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d[d]_2.jpg</additional_image_link>
+	</product>
+</feed>
